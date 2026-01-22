@@ -1,0 +1,11 @@
+# frontend
+frontend/node_modules
+frontend/.env
+
+# backend
+backend/target
+backend/.env
+
+# general
+.DS_Store
+*.log
